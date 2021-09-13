@@ -1,3 +1,10 @@
+This is a text utility project with basic functionality like counting number of words and number of characters and even the average time to read that particular length of text input.
+
+UPPERCASE and lowercase buttons were added to alter the input text.
+And, Clear button is added to empty the textbox.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
