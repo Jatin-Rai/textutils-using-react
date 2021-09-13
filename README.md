@@ -1,3 +1,5 @@
+# TextUtils Web App
+
 This is a text utility project with basic functionality like counting number of words and number of characters and even the average time to read that particular length of text input.
 
 UPPERCASE and lowercase buttons were added to alter the input text.
